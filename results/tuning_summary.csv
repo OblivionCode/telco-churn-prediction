@@ -1,0 +1,4 @@
+model,cv_pr_auc,best_params
+Logistic Regression,0.6618896031931532,"{""C"": 0.1}"
+Random Forest,0.6631143546133129,"{""min_samples_leaf"": 20, ""max_features"": ""sqrt"", ""max_depth"": 8}"
+Hist Gradient Boosting,0.6647335937773807,"{""l2_regularization"": 4.869640941520899, ""learning_rate"": 0.01303561122512888, ""max_iter"": 300, ""max_leaf_nodes"": 8, ""min_samples_leaf"": 40}"
